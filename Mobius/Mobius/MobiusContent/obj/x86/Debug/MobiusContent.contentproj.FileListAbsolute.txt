@@ -1,0 +1,6 @@
+C:\Users\Slugnifacent\Desktop\Mobius\Mobius\Mobius\MobiusContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris Peterson\Desktop\Sonar_REAL\GGJ - TheHipsters\Mobius\Mobius\MobiusContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Main User\Desktop\Game Jam\Mobius\Mobius\MobiusContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Derrick Huey\Desktop\zomg\GGJ - TheHipsters\Mobius\Mobius\MobiusContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sephiroth\Desktop\Mobius\Mobius\Mobius\MobiusContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slugnifacent\Documents\Mobius\Mobius\Mobius\MobiusContent\obj\x86\Debug\MobiusContent.contentprojResolveAssemblyReference.cache
